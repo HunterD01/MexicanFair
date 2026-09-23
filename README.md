@@ -8,11 +8,9 @@
   <img src="https://www.ingenieria.unam.mx/nuestra\_facultad/images/institucionales/escudos/escudounam\_color.jpg" width="250" height="300" hspace="50" alt="alt text"/>
 </p>
 <h3 align="left">NOMBRE COMPLETO: </h3>
-<h3 align="left">\&emsp;\&emsp;Cuadriello Valdés Cynthia Citlalli </h3>
-<h3 align="left">\&emsp;\&emsp;Cuadriello Valdés Diana Sinsuni </h3>
-<h3 align="left">\&emsp;\&emsp;Gutiérrez Ávila Tristan Bernardo </h3>
-<h3 align="left">GRUPO DE LABORATORIO: 11 </h3>
-<h3 align="left">GRUPO DE TEORÍA: 04 </h3>
+<h3 align="left">&emsp;&emsp;Cuadriello Valdés Cynthia Citlalli </h3>
+<h3 align="left">&emsp;&emsp;Cuadriello Valdés Diana Sinsuni </h3>
+<h3 align="left">&emsp;&emsp;Gutiérrez Ávila Tristan Bernardo </h3>
 <h3 align="left">SEMESTRE 2025-2 </h3>
 <h3 align="left"></h3>
 <h3 align="left"></h3>
